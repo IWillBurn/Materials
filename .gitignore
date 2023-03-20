@@ -1,0 +1,13 @@
+.git
+.vs
+Library
+Logs
+obj
+Packages
+ProjectSettings
+Temp
+UserSettings
+.vsconfig
+Assembly-CSharp.csproj
+Game.sln
+LudumDare51.sln
